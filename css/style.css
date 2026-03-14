@@ -11,8 +11,8 @@
     --color-surface: #ffffff;
     --color-text: #1a1a2e;
     --color-text-muted: #555;
-    --color-accent: #4f46e5;
-    --color-accent-hover: #4338ca;
+    --color-accent: #7235d0;
+    --color-accent-hover: #621cbb;
     --color-border: #e5e7eb;
     --radius: 12px;
     --wrapper-max: 840px;
@@ -118,7 +118,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #eef2ff;
+    background: #ede9fe;
     color: var(--color-accent);
     border-radius: 10px;
     margin-bottom: 16px;
